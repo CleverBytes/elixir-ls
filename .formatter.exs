@@ -10,3 +10,4 @@
     "apps/language_server"
   ]
 ]
+  {% assign sorted_cats = site.categories | sort %}
